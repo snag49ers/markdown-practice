@@ -14,3 +14,4 @@ let y = red;
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [ ] Hey young world
